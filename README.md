@@ -1,0 +1,1 @@
+# Microsoft's sudo for Windows Pre-24H2
